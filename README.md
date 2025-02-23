@@ -1,6 +1,5 @@
+# MHenderson.github.io
 
-* [My Github homepage](https://mhenderson.github.io/)
-* [My Github repos](https://mhenderson.github.io/MHenderson2/)
-* [My websites](https://mhenderson.github.io/sites/)
-* [My Tidy Tuesday gallery](https://mhenderson.github.io/tidy-tuesday/)
-
+* [Projects](https://mhenderson.github.io/MHenderson2/)
+* [Sites](https://mhenderson.github.io/sites/)
+* [Gallery](https://mhenderson.github.io/tidy-tuesday/)
